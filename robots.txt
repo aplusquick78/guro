@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guro.8222quick.com/sitemap.xml
+
+
+
